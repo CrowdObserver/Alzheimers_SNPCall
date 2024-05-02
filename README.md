@@ -1,4 +1,5 @@
 # Snakemake SNP Calling pipeline that extracts and examines 3 genes (APP, SOD1, DYRK1A).
+This pipeline performs its analysis on chr21.
 
 ## Rules:
 - download&emsp;&emsp;&emsp;&emsp; - Downloads fastq files from specified directory.
